@@ -1,0 +1,17 @@
+{
+  "name": "zstreams-xml-writer",
+  "version": "0.1.0",
+  "description": "Streaming xml generator on zstreams",
+  "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:crispy1989/zstreams-xml-writer.git"
+  },
+  "dependencies": {
+    "xml-escape": "^1.0.0",
+    "zstreams": "^3.1.0"
+  },
+  "devDependencies": {
+    "zstreams-xml-parser": "^0.1.0"
+  }
+}
